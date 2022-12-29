@@ -8,7 +8,7 @@ This program is capable of taking in dynamic user input, performing input valida
 - matrix addition
 - matrix multiplication
 
-After I had already completed the project, and was getting ready to add more operations, I realized that having the user input their row and column data manually took too much time, so I had the idea to allow them to input matrix data by row and have the program figure out their row and column data.
+After I had already completed the project, and was getting ready to add more operations, I realized that having the user input their row and column data manually took too much time, so I had the idea to allow them to input matrix data by row and have the program figure out their row and column data, validating and refactoring as necessary.
 
 For that version, please the link above.
 
