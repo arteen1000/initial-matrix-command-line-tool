@@ -12,7 +12,7 @@ After I had already completed the project, and was getting ready to add more ope
 
 For that version, please the link above.
 
-If you would still like to compile and use this version, you may do so by running the following steps in your terminal:
+If you would still like to compile and use this version, you may do so by running the following lines in your terminal:
 
 - `$ git clone https://github.com/arteen1000/initial-matrix-command-line-tool.git matrix-cli`
 - `$ cd matrix-cli`
