@@ -1,6 +1,6 @@
 # initial-matrix-command-line-tool
 
-This is the initial version of my 'matrix comand line tool'. For a more complete, and fundamentally different version, please see [matrix command line tool](https://github.com/arteen1000/matrix-command-line-tool).
+This is the initial version of my 'matrix comand line tool'. For a more user-friendly, and fundamentally different version, please see [matrix command line tool](https://github.com/arteen1000/matrix-command-line-tool).
 
 This program is capable of taking in dynamic user input, performing input validation, and using it to perform three basic matrix operations:
 
